@@ -1,0 +1,20 @@
+{
+  "name": "livinglots.lotlayer",
+  "version": "0.3.0",
+  "homepage": "https://github.com/596acres/livinglots.lotlayer",
+  "authors": [
+    "Eric Brelsford <ebrelsford@gmail.com>"
+  ],
+  "description": "Living Lots lotlayer",
+  "dependencies": {
+    "leaflet": ">=0.7.3",
+    "leaflet-tilelayer-vector": "https://github.com/ebrelsford/leaflet-tilelayer-vector.git#master"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
