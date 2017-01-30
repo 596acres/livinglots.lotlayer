@@ -1,8 +1,10 @@
 livinglots.lotlayer
 ==============
 
-Living Lots lot layer for Leaflet. Learn more at
+Living Lots ® lot layer for Leaflet. Learn more at
 [596acres/django-livinglots](https://github.com/596acres/django-livinglots).
+
+This module is part of the [Living Lots](https://github.com/596acres/django-livinglots) framework by [596 Acres](https://596acres.org) ®.
 
 
 License
